@@ -1,0 +1,22 @@
+body {
+
+    background-color: #2c3e50;
+
+    color: #ffffff ;
+
+}
+
+h2 {
+
+   color: #f1c40f;
+}
+.texto{
+    color:#e74c3c;
+}
+
+p {
+    border: black solid ;
+    color: black;
+    background-color:#f1c40f ;
+}
+   
